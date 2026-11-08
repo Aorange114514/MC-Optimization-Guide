@@ -280,7 +280,7 @@ Known issues: None (yet?)
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the MC Eternal instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Update Collective, Corail Tombstone and Simply Jetpacks 2 to their latest versions
-4. Remove AI Reducer, AI Improvements, AttributeFix, BetterFPS, ErebusFix, FastWorkbench, FoamFix, Just Enough Items, NotEnoughIDs, OldJavaWarning, Phosphor, RandomPatches, Save My Stronghold!, Shadowfacts' Forgelin, SwingThroughGrass and VanillaFix
+4. Remove AI Reducer, AI Improvements, AttributeFix, BetterFPS, ErebusFix, FastWorkbench, FoamFix, Just Enough Items, NetherPortalFix, NotEnoughIDs, OldJavaWarning, Phosphor, RandomPatches, Save My Stronghold!, Shadowfacts' Forgelin, SwingThroughGrass and VanillaFix
 5. Install Forgelin-Continuous, Fugue, Had Enough Items, Roughly Enough IDs and Scalar Legacy
 6. Make sure you have all of [these mods](/mods-n-stuff/1.12.2.md) installed and configured accordingly
 
